@@ -21,7 +21,7 @@ evidence=0.10
 それってあなたの感想ですよね？
 ```
 
-## 料金（2026-10-01 時点）
+## 料金(2026-10-05 時点)
 
 [typesafe/jev の料金](https://developers.cloudflare.com/ai/models/typesafe/jev/)
 
